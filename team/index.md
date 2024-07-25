@@ -21,11 +21,13 @@ redirect_from:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
+这里可以写点什么...
+
+{% include section.html %}
 ## 博士生和研究生
 
 实验室有许多研究方向的博士生和研究生
 
-{% include section.html %}
 ### 研究方向1
 {% include list.html data="members" component="portrait" filters="role: phd, group: Dir1" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postgrad, group: Dir1" style="small" %}
@@ -36,12 +38,12 @@ redirect_from:
 {% include list.html data="members" component="portrait" filters="role: phd, group: Dir3" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postgrad, group: Dir3" style="small" %}
 
-{% capture content %}
+<!-- {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
+{% endcapture %} -->
 
 {% include grid.html style="square" content=content %}
