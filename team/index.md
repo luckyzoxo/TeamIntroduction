@@ -17,7 +17,7 @@ redirect_from:
 
 袁老师和穆老师
 
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: tutor, group: " %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
