@@ -38,12 +38,13 @@ redirect_from:
 {% include list.html data="members" component="portrait" filters="role: phd, group: Dir3" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postgrad, group: Dir3" style="small" %}
 
-{% capture content %}
+<!-- {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
+{% endcapture %} -->
 
-{% include grid.html style="square" content=content %}
+<!-- {% include grid.html style="square" content=content %} -->
+{% include grid.html content=content %}

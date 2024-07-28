@@ -1,5 +1,5 @@
 ---
-name: Yuan Shijin
+name: 袁时金
 image: images/YuanShijin.jpg
 description: 博士，教授，博导
 role: tutor

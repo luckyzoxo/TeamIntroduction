@@ -1,5 +1,5 @@
 ---
-name: Mu Bin
+name: 穆斌
 image: images/MuBin.jpg
 description: 教授、博导、软件学院副院长
 role: tutor
