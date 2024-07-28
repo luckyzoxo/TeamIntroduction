@@ -37,13 +37,3 @@ redirect_from:
 ### 研究方向3
 {% include list.html data="members" component="portrait" filters="role: phd, group: Dir3" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postgrad, group: Dir3" style="small" %}
-
-<!-- {% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %} -->
-
-<!-- {% include grid.html style="square" content=content %} -->
