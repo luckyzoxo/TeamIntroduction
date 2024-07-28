@@ -47,4 +47,3 @@ redirect_from:
 {% endcapture %} -->
 
 <!-- {% include grid.html style="square" content=content %} -->
-{% include grid.html content=content %}
