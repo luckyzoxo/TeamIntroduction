@@ -1,0 +1,13 @@
+---
+name: 位慧慧
+image: images/WeiHuihui.jpg
+description: 博士生
+role: phd
+group: 
+    - precipitation
+    - heat_wave
+---
+
+研究方法: 
+* AI参数化方案
+* 智能WRF数值模式
