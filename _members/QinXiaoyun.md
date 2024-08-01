@@ -1,5 +1,5 @@
 ---
-name:秦小云
+name: 秦小云
 image: images/QinXiaoyun.jpg
 description: 博士生
 role: phd
