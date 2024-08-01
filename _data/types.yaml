@@ -31,9 +31,9 @@ tutor:
   icon: fa-solid fa-glasses
   description: Tutor
 
-postgrad:
+master:
   icon: fa-solid fa-user-graduate
-  description: Postgraduate Student
+  description: Master's Student
 
 # general
 
