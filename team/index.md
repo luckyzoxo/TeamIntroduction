@@ -55,3 +55,12 @@ redirect_from:
 ### 其他
 {% include list.html data="members" component="portrait" filters="role: phd, group: others" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: master, group: others" style="small" %}
+
+{% include section.html %}
+
+{%
+  include figure.html
+  image="images/TeamPicture.png"
+  caption="实验室人员合影"
+  width="100%"
+%}
