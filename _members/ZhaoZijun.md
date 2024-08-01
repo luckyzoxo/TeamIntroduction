@@ -4,7 +4,7 @@ image: images/ZhaoZijun.jpg
 description: 博士生
 role: phd
 group: NAO
-brief-desc: 北大西洋涛动(NAO)
+brief-position: 北大西洋涛动(NAO)
 ---
 
 <span style="font-size: 25px;">研究现象: 北大西洋涛动(NAO)
