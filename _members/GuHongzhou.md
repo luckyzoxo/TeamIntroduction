@@ -6,6 +6,9 @@ role: master
 group: fog
 ---
 
-研究方法: 
+<span style="font-size: 25px;">研究现象:
+* 雾
+
+<span style="font-size: 25px;">研究方法: 
 * AI
 * 能见度预测

@@ -6,6 +6,9 @@ role: phd
 group: ENSO
 ---
 
-研究方法: 
+<span style="font-size: 25px;">研究现象:
+* 厄尔尼诺-南方涛动(ENSO)
+
+<span style="font-size: 25px;">研究方法: 
 * 物理引导
 * ENSO智能预测

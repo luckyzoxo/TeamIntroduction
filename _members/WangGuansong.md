@@ -8,7 +8,11 @@ group:
     - weather
 ---
 
-研究方法: 
+<span style="font-size: 25px;">研究现象:
+* 台风
+* 天气
+
+<span style="font-size: 25px;">研究方法: 
 * 多模态
 * 物理机制
 * 深度学习

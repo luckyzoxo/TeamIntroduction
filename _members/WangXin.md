@@ -6,5 +6,8 @@ role: phd
 group: typhoon
 ---
 
-研究方法：
+<span style="font-size: 25px;">研究现象:
+* 台风
+
+<span style="font-size: 25px;">研究方法：
 * 基于深度学习的监测与预报

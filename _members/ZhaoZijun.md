@@ -7,7 +7,7 @@ group: NAO
 brief-position: 北大西洋涛动(NAO)
 ---
 
-<span style="font-size: 25px;">研究现象: 
+<span style="font-size: 25px;">研究现象:
 * 北大西洋涛动(NAO)
 
 <span style="font-size: 25px;">研究方法: 

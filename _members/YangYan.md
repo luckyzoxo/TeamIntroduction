@@ -6,6 +6,9 @@ role: master
 group: kuroshio
 ---
 
-研究方法: 
+<span style="font-size: 25px;">研究现象:
+* 黑潮
+
+<span style="font-size: 25px;">研究方法: 
 * 深度学习
 * 条件非线性最优扰动
