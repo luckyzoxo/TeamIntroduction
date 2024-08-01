@@ -14,6 +14,6 @@ group:
 * 高温热浪
 * 寒潮
 
-<span style="font-size: 25px;">研究方法：
+<span style="font-size: 25px;">研究方法: 
 * 人工智能大模型预报
 * 数值模式预报
