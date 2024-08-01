@@ -12,7 +12,6 @@ group:
 * 降水
 * 高温热浪
 
-<span style="font-size: 25px;">研究现象:
-* 厄尔尼诺-南方涛动(ENSO)研究方法: 
+<span style="font-size: 25px;">研究方法: 
 * AI参数化方案
 * 智能WRF数值模式
