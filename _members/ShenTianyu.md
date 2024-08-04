@@ -14,6 +14,6 @@ brief-desc: 博士生
 * 台风
 * 高温热浪
 
-<span style="font-size: 25px;">研究方法: 
-* AI参数化方案
-* 智能数值模式预报
+<span style="font-size: 25px;">研究方法: </span>
+
+AI参数化方案、智能数值模式预报
