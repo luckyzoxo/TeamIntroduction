@@ -1,10 +1,8 @@
 ---
 name: 沈天宇
-image: images/team/ShenTianyu.jpg
+image: images/ShenTianyu.jpg
 description: 博士生
 role: phd
-brief-position: Autonomous Vehicles, Sensors, Positioning, Simulation
-brief-desc: Lab Manager & Postdoc
 group: 
     - typhoon
     - heat_wave
