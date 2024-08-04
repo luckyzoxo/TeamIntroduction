@@ -30,8 +30,8 @@ redirect_from:
 实验室的博士生和硕士生研究了许多气候现象，包括台风、降水等。
 
 ### 台风
-{% include list.html data="members" component="portrait" filters="role: phd, group: typhoon" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: master, group: typhoon" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: typhoon" %}
+{% include list.html data="members" component="portrait" filters="role: master, group: typhoon" %}
 ### 厄尔尼诺-南方涛动(ENSO)
 {% include list.html data="members" component="portrait" filters="role: phd, group: ENSO" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: master, group: ENSO" style="small" %}
