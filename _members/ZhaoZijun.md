@@ -11,8 +11,4 @@ brief-position: 北大西洋涛动(NAO)
 * 北大西洋涛动(NAO)
 
 <span style="font-size: 25px;">研究方法: 
-* CESM
-* 耦合数据同化
-* AI参数化方案
-* 集合预报
-* 目标观测
+CESM、耦合数据同化、AI参数化方案、集合预报、目标观测
