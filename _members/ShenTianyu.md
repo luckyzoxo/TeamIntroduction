@@ -6,6 +6,8 @@ role: phd
 group: 
     - typhoon
     - heat_wave
+brief-position: 台风，高温热浪
+brief-desc: 博士生
 ---
 
 <span style="font-size: 25px;">研究现象: 
