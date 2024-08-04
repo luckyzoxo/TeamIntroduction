@@ -1,6 +1,6 @@
 ---
 name: 沈天宇
-image: images/ShenTianyu.jpg
+image: images/team/ShenTianyu.jpg
 description: 博士生
 role: phd
 brief-position: Autonomous Vehicles, Sensors, Positioning, Simulation
