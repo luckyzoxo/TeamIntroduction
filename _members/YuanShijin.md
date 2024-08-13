@@ -28,55 +28,103 @@ links:
 
 ## 学术论文：
 ### 期刊论文：
-(1) Bin Mu#, Yuehan Cui, Shijin Yuan*, et al. Simulation, precursor analysis and targeted observation sensitive area identification for two types of ENSO using ENSO-MC v1.0[J]. Geoscientific Model Development, 2022, 15(10): 4105-4127.
-(2) Bin Mu#, Bo Qin, Shijin Yuan*. ENSO-ASC 1.0.0: ENSO deep learning forecast model with a multivariate air–sea coupler[J]. Geoscientific Model Development, 2021, 14(11): 6977-6999.
-(3) Shijin Yuan#, Huazhen Zhang, Yaxuan Liu, Bin Mu*. Feature extraction-based intelligent algorithm framework with neural network for solving conditional nonlinear optimal perturbation[J]. Soft Computing, 2022: 1-18.
-(4) Bin Mu#, Jing Li, Shijin Yuan*, et al. The NAO Variability Prediction and Forecasting with Multiple Time Scales Driven by ENSO Using Machine Learning Approaches[J]. Computational Intelligence and Neuroscience, 2022.
-(5) Bin Mu#, Jing Li, Shijin Yuan*, et al. Optimal precursors identification for North Atlantic oscillation using the parallel intelligence algorithm[J]. Scientific Programming, 2022.
-(6) Shijin Yuan#, Bo Shi, Zijun Zhao, Bin Mu*, et al. Ensemble Forecast for Tropical Cyclone Based on CNOP-P Method: A Case Study of WRF Model and Two Typhoons[J]. Journal of Tropical Meteorology, 2022, 28(2): 121-138.
-(7) Bin Mu#, Bo Qin, Shijin Yuan*, et al. ENSO Deep Learning Forecast Model: A Survey [J]. Clivar Exchange, 2021.
-(8) Shijin Yuan#, Cheng Wang, Bin Mu*, et al. Typhoon intensity forecasting based on LSTM using the rolling forecast method[J]. Algorithms, 2021, 14(3): 83.
-(9) Bin Mu#, Jing Li, Shijin Yuan*, Xiaodan Luo,Prediction of North Atlantic Oscillation Index Associated with the Sea Level Pressure Using DWT-LSTM and DWT-ConvLSTM Networks, Mathematical Problems in Engineering, 2020.10.05/Volume 2020.
-(10) Bin Mu#, Jing Li, Shijin Yuan*, Xiaodan Luo, Guokun Dai, CNOP-P-Based Parameter Sensitivity Analysis for North Atlantic Oscillation in Community Earth System Model Using Intelligence Algorithms, Advances in Meteorology, 2020.10.15/Volume 2020.
-(11) Bin Mu#, Bo Qin, Shijin Yuan*, Xiaoyun Qin, A Climate Downscaling Deep Learning Model considering the Multiscale Spatial Correlations and Chaos of Meteorological Events, Mathematical Problems in Engineering, 2020.11.17/Volume 2020.
-(12) Bin MU#, Juhui REN , Shijin YUAN*, Rong-Hua ZHANG, Lei CHEN , and Chuan GAO，The Optimal Precursors for ENSO Events Depicted Using the Gradientdefinition-based Method in an Intermediate Coupled Model，ADVANCES IN ATMOSPHERIC SCIENCES, VOL. 36, DECEMBER 2019, 1–12.
-(13) Shijin Yuan#，Xiaodan Luo，Bin Mu*，Jing Li，Guokun Dai，Prediction of North Atlantic Oscillation Index with Convolutional LSTM Based on Ensemble Empirical Mode Decomposition，Atmosphere 2019, 10(5), 252.
-(14) YUAN Shijin#, ZHANG Huazhen, LI Mi, MU Bin*, CNOP-P-based parameter sensitivity for double-gyre variation in ROMS with simulated annealing algorithm. Journal of Oceanology and Limnology, 2019, 37 (3): 957-967.
-(15) YUAN Shijin#, LI Mi, WANG Qiang, ZHANG Kun, ZHANG Huazhen, MU Bin*，Optimal precursors of double-gyre regime transitions with an adjoint-free method. Journal of Oceanology and Limnology, 2019, 37 (4): 1137-1153.
-(16) Zhang Linlin#, Mu Bin, Yuan Shijin*, et al. A novel approach for solving CNOPs and its application in identifying sensitive regions of tropical cyclone adaptive observations. Nonlinear Processes in Geophysics, 2018, 25(3): 693-712.
-(17) Mu Bin#, Zhang Linlin, Yuan Shijin*, et al. Intelligent Algorithms for Solving CNOP and Their Applications in ENSO Predictability and Tropical Cyclone Adaptive Observations. Journal of Tropical Meteorology, 2018, 25(1): 63-81.
-(18) Zhang Linlin#, Yuan Shijin*, Mu Bin, et al. CNOP-based sensitive areas identification for tropical cyclone adaptive observations with PCAGA method. Asia-Pacific Journal of Atmospheric Sciences, 2017, 53(1):63-73.
-(19) Zhang Linlin#, Mu Bin, Yuan Shijin*. A Modified Direct Search Algorithm based on Kernel Density Estimator with Three Mapping Strategies for Solving Nonlinear Optimization. Journal of Computers. (2018，EI)
-(20) Mu Bin#, Ren Juhui, Yuan Shijin*, Zhou feifan. Identifying Typhoon Targeted Observations Sensitive Areas Using the Gradient Definition Based Method, Asia-Pacific Journal of Atmospheric Sciences, 2018: 1-13.
-(21) Mu Bin#, Ren Juhui, Yuan Shijin*. An efficient approach based on the gradient definition for solving conditional nonlinear optimal perturbation, Mathematical Problems in Engineering, 2017.
-(22) Mu Bin#, Wen Shicheng, Yuan Shijin*, Li Hongyu. PPSO: PCA based particle swarm optimization for solving conditional nonlinear optimal perturbation. Computers & geosciences, 83 (2015): 65-71.
-(23) Wen Shicheng#, Yuan Shijin*, Li Hongyu, Mu Bin, Robust ensemble feature extraction for solving conditional nonlinear optimal perturbation, In ternational Journal of Computational Science and Engineering, 2015.01.01, 11(4): 349~359.
-(24) Yuan Shijin#*, Wen Shicheng, Li Hongyu, Zhang Xinfeng, Liu Qin, An optimization framework for adjoint-based climate simulations: A case study of the Zebiak-Cane model, International Journal of High Performance Computing Applications, 2014.5, 28(2): 174~182.
+(1) Bin Mu#, Yuehan Cui, **Shijin Yuan^*^**, et al. Simulation, precursor analysis and targeted observation sensitive area identification for two types of ENSO using ENSO-MC v1.0[J]. Geoscientific Model Development, 2022, 15(10): 4105-4127.
+
+(2) Bin Mu#, Bo Qin, **Shijin Yuan^*^**. ENSO-ASC 1.0.0: ENSO deep learning forecast model with a multivariate air–sea coupler[J]. Geoscientific Model Development, 2021, 14(11): 6977-6999.
+
+(3) **Shijin Yuan^#^**, Huazhen Zhang, Yaxuan Liu, Bin Mu*. Feature extraction-based intelligent algorithm framework with neural network for solving conditional nonlinear optimal perturbation[J]. Soft Computing, 2022: 1-18.
+
+(4) Bin Mu#, Jing Li, **Shijin Yuan^*^**, et al. The NAO Variability Prediction and Forecasting with Multiple Time Scales Driven by ENSO Using Machine Learning Approaches[J]. Computational Intelligence and Neuroscience, 2022.
+
+(5) Bin Mu#, Jing Li, **Shijin Yuan^*^**, et al. Optimal precursors identification for North Atlantic oscillation using the parallel intelligence algorithm[J]. Scientific Programming, 2022.
+
+(6) **Shijin Yuan^#^**, Bo Shi, Zijun Zhao, Bin Mu*, et al. Ensemble Forecast for Tropical Cyclone Based on CNOP-P Method: A Case Study of WRF Model and Two Typhoons[J]. Journal of Tropical Meteorology, 2022, 28(2): 121-138.
+
+(7) Bin Mu#, Bo Qin, **Shijin Yuan^*^**, et al. ENSO Deep Learning Forecast Model: A Survey [J]. Clivar Exchange, 2021.
+
+(8) **Shijin Yuan^#^**, Cheng Wang, Bin Mu*, et al. Typhoon intensity forecasting based on LSTM using the rolling forecast method[J]. Algorithms, 2021, 14(3): 83.
+
+(9) Bin Mu#, Jing Li, **Shijin Yuan^*^**, Xiaodan Luo,Prediction of North Atlantic Oscillation Index Associated with the Sea Level Pressure Using DWT-LSTM and DWT-ConvLSTM Networks, Mathematical Problems in Engineering, 2020.10.05/Volume 2020.
+
+(10) Bin Mu#, Jing Li, **Shijin Yuan^*^**, Xiaodan Luo, Guokun Dai, CNOP-P-Based Parameter Sensitivity Analysis for North Atlantic Oscillation in Community Earth System Model Using Intelligence Algorithms, Advances in Meteorology, 2020.10.15/Volume 2020.
+
+(11) Bin Mu#, Bo Qin, **Shijin Yuan^*^**, Xiaoyun Qin, A Climate Downscaling Deep Learning Model considering the Multiscale Spatial Correlations and Chaos of Meteorological Events, Mathematical Problems in Engineering, 2020.11.17/Volume 2020.
+
+(12) Bin MU#, Juhui REN , **Shijin Yuan^*^**, Rong-Hua ZHANG, Lei CHEN , and Chuan GAO，The Optimal Precursors for ENSO Events Depicted Using the Gradientdefinition-based Method in an Intermediate Coupled Model，ADVANCES IN ATMOSPHERIC SCIENCES, VOL. 36, DECEMBER 2019, 1–12.
+
+(13) **Shijin Yuan^#^**，Xiaodan Luo，Bin Mu*，Jing Li，Guokun Dai，Prediction of North Atlantic Oscillation Index with Convolutional LSTM Based on Ensemble Empirical Mode Decomposition，Atmosphere 2019, 10(5), 252.
+
+(14) **YUAN Shijin^#^**, ZHANG Huazhen, LI Mi, MU Bin*, CNOP-P-based parameter sensitivity for double-gyre variation in ROMS with simulated annealing algorithm. Journal of Oceanology and Limnology, 2019, 37 (3): 957-967.
+
+(15) **YUAN Shijin^#^**, LI Mi, WANG Qiang, ZHANG Kun, ZHANG Huazhen, MU Bin*，Optimal precursors of double-gyre regime transitions with an adjoint-free method. Journal of Oceanology and Limnology, 2019, 37 (4): 1137-1153.
+
+(16) Zhang Linlin#, Mu Bin, **Yuan Shijin^*^**, et al. A novel approach for solving CNOPs and its application in identifying sensitive regions of tropical cyclone adaptive observations. Nonlinear Processes in Geophysics, 2018, 25(3): 693-712.
+
+(17) Mu Bin#, Zhang Linlin, **Yuan Shijin^*^**, et al. Intelligent Algorithms for Solving CNOP and Their Applications in ENSO Predictability and Tropical Cyclone Adaptive Observations. Journal of Tropical Meteorology, 2018, 25(1): 63-81.
+
+(18) Zhang Linlin#, **Yuan Shijin^*^**, Mu Bin, et al. CNOP-based sensitive areas identification for tropical cyclone adaptive observations with PCAGA method. Asia-Pacific Journal of Atmospheric Sciences, 2017, 53(1):63-73.
+
+(19) Zhang Linlin#, Mu Bin, **Yuan Shijin^*^**. A Modified Direct Search Algorithm based on Kernel Density Estimator with Three Mapping Strategies for Solving Nonlinear Optimization. Journal of Computers. (2018，EI)
+
+(20) Mu Bin#, Ren Juhui, **Yuan Shijin^*^**, Zhou feifan. Identifying Typhoon Targeted Observations Sensitive Areas Using the Gradient Definition Based Method, Asia-Pacific Journal of Atmospheric Sciences, 2018: 1-13.
+
+(21) Mu Bin#, Ren Juhui, **Yuan Shijin^*^**. An efficient approach based on the gradient definition for solving conditional nonlinear optimal perturbation, Mathematical Problems in Engineering, 2017.
+
+(22) Mu Bin#, Wen Shicheng, **Yuan Shijin^*^**, Li Hongyu. PPSO: PCA based particle swarm optimization for solving conditional nonlinear optimal perturbation. Computers & geosciences, 83 (2015): 65-71.
+
+(23) Wen Shicheng#, **Yuan Shijin^*^**, Li Hongyu, Mu Bin, Robust ensemble feature extraction for solving conditional nonlinear optimal perturbation, In ternational Journal of Computational Science and Engineering, 2015.01.01, 11(4): 349~359.
+
+(24) **YUAN Shijin^#^***, Wen Shicheng, Li Hongyu, Zhang Xinfeng, Liu Qin, An optimization framework for adjoint-based climate simulations: A case study of the Zebiak-Cane model, International Journal of High Performance Computing Applications, 2014.5, 28(2): 174~182.
 
 ### 会议论文：
-(1) Shijin Yuan#, Cheng Wang, Bin Mu, et al. Efficient Executions of Community Earth System Model onto Accelerators Using GPUs[C]//2020 6th International Conference on Robotics and Artificial Intelligence. 2020: 192-199.
-(2) Bin Mu#, Bo Qin, Shijin Yuan*, Multi-Scale Downscaling with Bayesian Convolution Network for ENSO SST Pattern, 2020 5th International Conference on Electromechanical Control Technology and Transportation (ICECTT), May. 15-17, 2020, Nanchang, online, China, pp. 359-362.
-(3) Shijin Yuan#， Bo Shi, Bin Mu*, Data Assimilation by Artificial Neural Network using Conventional Observation for WRF Model, 2020 5th International Conference on Machine Learning Technologies, June 19-21, 2020, Beijing, online, China, pp. 62-67.
-(4) Bin Mu#, Shaoyang Ma, Shijin Yuan*，Hui Xu, Applying Convolutional LSTM Network to Predict El Nino Events: Transfer Learning from the Data of Dynamical Model and Observation, 2020 10th IEEE International Conference on Electronics Information and Emergency Communication (ICEIEC 2020), July 17-19, 2020, Beijing, online, China, pp. 215-219.
-(5) B. Mu#, J. Li, S. Yuan*, X. Luo and G. Dai, "Parallel PCA-Based Bacterial Foraging Optimization Algorithm for Identifying Optimal Precursors of North Atlantic Oscillation," 2019 IEEE 21st International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City; IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS), Zhangjiajie, China, 2019, pp. 1171-1177. 中国张家界
-(6) Mu, B.#, Peng, C., Yuan, S.*, & Chen, L. (2019, July). ENSO Forecasting over Multiple Time Horizons Using ConvLSTM Network and Rolling Mechanism. In 2019 International Joint Conference on Neural Networks (IJCNN) ,IEEE. 匈牙利布达佩斯
-(7) Mu, B.#, Li, J., Yuan, S.*, Luo, X., & Dai, G. (2019, July). NAO Index Prediction using LSTM and ConvLSTM Networks Coupled with Discrete Wavelet Transform. In 2019 International Joint Conference on Neural Networks (IJCNN) , IEEE. 匈牙利布达佩斯
-(8) Shijin Yuan#，Yunyi Chen，Bin Mu*, CACO-LD: Parallel Continuous Ant Colony Optimization with Linear Decrease Strategy for Solving CNOP, 24nd International Conference on Neural Information Processing, ICONIP 2017, Guangzhou, China, November, 2017. 中国广州
-(9) Bin Mu#*, Site Li, Shijin Yuan, An improved effective approach for urban air quality forecast ,2017 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), Guilin, China, 2017.7.29-2017.7.31. 中国桂林
-(10) Bin Mu#， Junhui Zhao， Shijin Yuan*， Jinghao Yan， Parallel Dynamic Search Fireworks Algorithm with Linearly Decreased Dimension Number Strategy for Solving Conditional Nonlinear Optimal Perturbation， 2017 International Joint Conference on Neural Networks (IJCNN)，Anchorage, Alaska, USA，2017.5.14-2017.5.19. 美国阿拉斯加
-(11) Yuan Shijin#*, Mi Li, Bin Mu, Jingpeng Wang, PCAFP for Solving CNOP in Double-Gyre Variation and its Parallelization on Clusters, 2016 IEEE 18th International Conference on High-Performance Computing and Communications, Sydney, Australia, 2016.12.12-2016.12.14. 澳大利亚悉尼
-(12) Ren Juhui#, Yuan Shijin*, Mu Bin, Parallel modified artificial bee colony algorithm for solving conditional nonlinear optimal perturbation, 2016 IEEE 18th International Conference on High-Performance Computing and Communications, Sydney, Australia, 2016.12.12-2016.12.14. 澳大利亚悉尼
-(13) Yuan Shijin#*, Qian Yiwen, Mu Bin, Paralleled continuous tabu search algorithm with sine maps and staged strategy for solving CNOP, 15th International Conference on Algorithms and Architectures for Parallel Processing, ICA3PP 2015, Zhangjiajie, China, 2015.11.18-2015.11.20. 中国张家界
-(14) Yuan Shijin#*, Ji Feng, Yan Jinghao, Mu Bin, A Parallel Sensitive Area Selection-Based Particle Swarm Optimization Algorithm for Fast Solving CNOP, 22nd International Conference on Neural Information Processing (ICONIP), Istanbul, TURKEY, 2015.11.9-2015.11.12. CCF-C.土耳其伊斯坦布尔
-(15) Yuan Shijin#*, Zhao Li, Mu Bin, Parallel Cooperative Co-evolution Based Particle Swarm Optimization Algorithm for Solving Conditional Nonlinear Optimal Perturbation, 22nd International Conference on Neural Information Processing (ICONIP), Istanbul, Turkey, 2015.11.9-2015.11.12. 土耳其伊斯坦布尔
-(16) Yuan Shijin#*, Yan Jinghao, Mu Bin, Li Hongyu, Parallel dynamic step size sphere-gap transferring algorithm for solving conditional nonlinear optimal perturbation, 17th IEEE International Conference on High Performance Computing and Communications, IEEE 7th International Symposium on Cyberspace Safety and Security and IEEE 12th International Conference on Embedded Software and Systems, HPCC-ICESS-CSS 2015, New York, USA , 2015.8.24-2015.8.26. 美国纽约
-(17) Wen, Shicheng#，Yuan, Shijin*，Mu, Bin，Li, Hongyu，Robust PCA-based genetic algorithm for solving CNOP， 11th International Conference on Intelligent Computing, ICIC 2015，Fuzhou, China，2015.8.20-2015.8.23. 中国福州
-(18) Bin Mu#，Linlin Zhang，Shijin Yuan*，Hongyu Li， PCAGA: Principal Component Analysis Based Genetic Algorithm for Solving Conditional Nonlinear Optimal Perturbation, 2015 International Joint Conference on Neural Networks (IJCNN)，Killarney, Ireland，2015.7.12-2015.7.17. 爱尔兰基拉尼
-(19) Fuxin Chen#, Shijin Yuan*, Bin Mu，User-QoS-based Web Service Clustering for QoS Prediction， ICWS 2015：the 22nd IEEE International Conference on Web Services, New York City, USA, 2015.6.27-2015.7.2. CCF-B. 美国纽约
-(20) Wen, Shicheng#，Yuan, Shijin*，Mu, Bin，Li, Hongyu，Ren, Juhui, PCGD: Principal components-based great deluge method for solving CNOP, IEEE Congress on Evolutionary Computation, CEC 2015，Sendai, Japan，2015.5.25-2015.5.28. 日本仙台
-(21) Bin Mu#，Su Li，Shijin Yuan，QoS-Aware Cloud Service Selection Based on Uncertain User Preference， RSKT 2014: the 9th International Conference on Rough Sets and Knowledge Technology，2014年10月, Lecture Notes in Artificial Intelligence，RSKT2014：pp.589-600, Shanghai, China, 2014.10.24-2014.10.26. 中国上海
-(22) Wen, Shicheng#，Yuan, Shijin*，Mu, Bin，Li, Hongyu，Chen, Lei, SAEP: Simulated Annealing Based Ensemble Projecting Method for Solving Conditional Nonlinear Optimal Perturbation, 14th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)，Dalian, China，2014.8.24-2014.8.27. 中国大连
-(23) Mu, Bin#，Wen, Shicheng，Yuan, Shijin*，Li, Hongyu, Orthogonal Neighborhood Preservation Projection Based Method for Solving CNOP, 10th International Conference on Intelligent Computing (ICIC)，Taiyuan, China，2014.8.3-2014.8.6. 中国太原
-(24) Hongyu Li#，Jie Bian，Shijin Yuan*，Parallel Optimization of the MM5 Adjoint Model， 15th IEEE International Conference on High Performance Computing and Communications, HPCC 2013 and 11th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing, EUC 2013，Zhangjiajie, China，2013.11.13-2013.11.15. 中国张家界
-(25) Li, Hongyu#，Zhou, Weiyu，Yuan, Shijin*，Wen, Shicheng, ACStack: Adaptive composite stack for adjoint models in code optimization, 15th IEEE International Conference on High Performance Computing and Communications, HPCC 2013 and 11th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing, EUC 2013，Zhangjiajie, China，2013.11.13-2013.11.15. 中国张家界
-(26) Li, Hongyu#，Qin, Jiachuan，Yuan, Shijin*，Bian, Jie, Code parallel refactoring of the Zebiak-Cane model based on JASMIN, 2013 3rd International Conference on Computer Science and Network Technology, ICCSNT 2013，Dalian, China，2013.10.12-2013.10.13. 中国大连
+(1) **Shijin Yuan^#^**, Cheng Wang, Bin Mu, et al. Efficient Executions of Community Earth System Model onto Accelerators Using GPUs[C]//2020 6th International Conference on Robotics and Artificial Intelligence. 2020: 192-199.
+
+(2) Bin Mu#, Bo Qin, **Shijin Yuan^*^**, Multi-Scale Downscaling with Bayesian Convolution Network for ENSO SST Pattern, 2020 5th International Conference on Electromechanical Control Technology and Transportation (ICECTT), May. 15-17, 2020, Nanchang, online, China, pp. 359-362.
+
+(3) **Shijin Yuan^#^**， Bo Shi, Bin Mu*, Data Assimilation by Artificial Neural Network using Conventional Observation for WRF Model, 2020 5th International Conference on Machine Learning Technologies, June 19-21, 2020, Beijing, online, China, pp. 62-67.
+
+(4) Bin Mu#, Shaoyang Ma, **Shijin Yuan^*^**，Hui Xu, Applying Convolutional LSTM Network to Predict El Nino Events: Transfer Learning from the Data of Dynamical Model and Observation, 2020 10th IEEE International Conference on Electronics Information and Emergency Communication (ICEIEC 2020), July 17-19, 2020, Beijing, online, China, pp. 215-219.
+
+(5) B. Mu#, J. Li, **S. Yuan^*^**, X. Luo and G. Dai, "Parallel PCA-Based Bacterial Foraging Optimization Algorithm for Identifying Optimal Precursors of North Atlantic Oscillation," 2019 IEEE 21st International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City; IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS), Zhangjiajie, China, 2019, pp. 1171-1177. 中国张家界
+
+(6) Mu, B.#, Peng, C., **Yuan, S.^*^**, & Chen, L. (2019, July). ENSO Forecasting over Multiple Time Horizons Using ConvLSTM Network and Rolling Mechanism. In 2019 International Joint Conference on Neural Networks (IJCNN) ,IEEE. 匈牙利布达佩斯
+
+(7) Mu, B.#, Li, J., **Yuan, S.^*^**, Luo, X., & Dai, G. (2019, July). NAO Index Prediction using LSTM and ConvLSTM Networks Coupled with Discrete Wavelet Transform. In 2019 International Joint Conference on Neural Networks (IJCNN) , IEEE. 匈牙利布达佩斯
+
+(8) **Shijin Yuan^#^**，Yunyi Chen，Bin Mu*, CACO-LD: Parallel Continuous Ant Colony Optimization with Linear Decrease Strategy for Solving CNOP, 24nd International Conference on Neural Information Processing, ICONIP 2017, Guangzhou, China, November, 2017. 中国广州
+
+(9) Bin Mu#*, Site Li, **Shijin Yuan**, An improved effective approach for urban air quality forecast ,2017 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), Guilin, China, 2017.7.29-2017.7.31. 中国桂林
+
+(10) Bin Mu#， Junhui Zhao， **Shijin Yuan^*^**， Jinghao Yan， Parallel Dynamic Search Fireworks Algorithm with Linearly Decreased Dimension Number Strategy for Solving Conditional Nonlinear Optimal Perturbation， 2017 International Joint Conference on Neural Networks (IJCNN)，Anchorage, Alaska, USA，2017.5.14-2017.5.19. 美国阿拉斯加
+
+(11) **YUAN Shijin^#^***, Mi Li, Bin Mu, Jingpeng Wang, PCAFP for Solving CNOP in Double-Gyre Variation and its Parallelization on Clusters, 2016 IEEE 18th International Conference on High-Performance Computing and Communications, Sydney, Australia, 2016.12.12-2016.12.14. 澳大利亚悉尼
+
+(12) Ren Juhui#, **Yuan Shijin^*^**, Mu Bin, Parallel modified artificial bee colony algorithm for solving conditional nonlinear optimal perturbation, 2016 IEEE 18th International Conference on High-Performance Computing and Communications, Sydney, Australia, 2016.12.12-2016.12.14. 澳大利亚悉尼
+
+(13) **YUAN Shijin^#^***, Qian Yiwen, Mu Bin, Paralleled continuous tabu search algorithm with sine maps and staged strategy for solving CNOP, 15th International Conference on Algorithms and Architectures for Parallel Processing, ICA3PP 2015, Zhangjiajie, China, 2015.11.18-2015.11.20. 中国张家界
+
+(14) **YUAN Shijin^#^***, Ji Feng, Yan Jinghao, Mu Bin, A Parallel Sensitive Area Selection-Based Particle Swarm Optimization Algorithm for Fast Solving CNOP, 22nd International Conference on Neural Information Processing (ICONIP), Istanbul, TURKEY, 2015.11.9-2015.11.12. CCF-C.土耳其伊斯坦布尔
+
+(15) **YUAN Shijin^#^***, Zhao Li, Mu Bin, Parallel Cooperative Co-evolution Based Particle Swarm Optimization Algorithm for Solving Conditional Nonlinear Optimal Perturbation, 22nd International Conference on Neural Information Processing (ICONIP), Istanbul, Turkey, 2015.11.9-2015.11.12. 土耳其伊斯坦布尔
+
+(16) **YUAN Shijin^#^***, Yan Jinghao, Mu Bin, Li Hongyu, Parallel dynamic step size sphere-gap transferring algorithm for solving conditional nonlinear optimal perturbation, 17th IEEE International Conference on High Performance Computing and Communications, IEEE 7th International Symposium on Cyberspace Safety and Security and IEEE 12th International Conference on Embedded Software and Systems, HPCC-ICESS-CSS 2015, New York, USA , 2015.8.24-2015.8.26. 美国纽约
+
+(17) Wen, Shicheng#，**Yuan, Shijin^*^**，Mu, Bin，Li, Hongyu，Robust PCA-based genetic algorithm for solving CNOP， 11th International Conference on Intelligent Computing, ICIC 2015，Fuzhou, China，2015.8.20-2015.8.23. 中国福州
+
+(18) Bin Mu#，Linlin Zhang，**Shijin Yuan^*^**，Hongyu Li， PCAGA: Principal Component Analysis Based Genetic Algorithm for Solving Conditional Nonlinear Optimal Perturbation, 2015 International Joint Conference on Neural Networks (IJCNN)，Killarney, Ireland，2015.7.12-2015.7.17. 爱尔兰基拉尼
+
+(19) Fuxin Chen#, **Shijin Yuan^*^**, Bin Mu，User-QoS-based Web Service Clustering for QoS Prediction， ICWS 2015：the 22nd IEEE International Conference on Web Services, New York City, USA, 2015.6.27-2015.7.2. CCF-B. 美国纽约
+
+(20) Wen, Shicheng#，**Yuan, Shijin^*^**，Mu, Bin，Li, Hongyu，Ren, Juhui, PCGD: Principal components-based great deluge method for solving CNOP, IEEE Congress on Evolutionary Computation, CEC 2015，Sendai, Japan，2015.5.25-2015.5.28. 日本仙台
+
+(21) Bin Mu#，Su Li，**Shijin Yuan**，QoS-Aware Cloud Service Selection Based on Uncertain User Preference， RSKT 2014: the 9th International Conference on Rough Sets and Knowledge Technology，2014年10月, Lecture Notes in Artificial Intelligence，RSKT2014：pp.589-600, Shanghai, China, 2014.10.24-2014.10.26. 中国上海
+
+(22) Wen, Shicheng#，**Yuan, Shijin^*^**，Mu, Bin，Li, Hongyu，Chen, Lei, SAEP: Simulated Annealing Based Ensemble Projecting Method for Solving Conditional Nonlinear Optimal Perturbation, 14th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)，Dalian, China，2014.8.24-2014.8.27. 中国大连
+
+(23) Mu, Bin#，Wen, Shicheng，**Yuan, Shijin^*^**，Li, Hongyu, Orthogonal Neighborhood Preservation Projection Based Method for Solving CNOP, 10th International Conference on Intelligent Computing (ICIC)，Taiyuan, China，2014.8.3-2014.8.6. 中国太原
+
+(24) Hongyu Li#，Jie Bian，**Shijin Yuan^*^**，Parallel Optimization of the MM5 Adjoint Model， 15th IEEE International Conference on High Performance Computing and Communications, HPCC 2013 and 11th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing, EUC 2013，Zhangjiajie, China，2013.11.13-2013.11.15. 中国张家界
+
+(25) Li, Hongyu#，Zhou, Weiyu，**Yuan, Shijin^*^**，Wen, Shicheng, ACStack: Adaptive composite stack for adjoint models in code optimization, 15th IEEE International Conference on High Performance Computing and Communications, HPCC 2013 and 11th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing, EUC 2013，Zhangjiajie, China，2013.11.13-2013.11.15. 中国张家界
+
+(26) Li, Hongyu#，Qin, Jiachuan，**Yuan, Shijin^*^**，Bian, Jie, Code parallel refactoring of the Zebiak-Cane model based on JASMIN, 2013 3rd International Conference on Computer Science and Network Technology, ICCSNT 2013，Dalian, China，2013.10.12-2013.10.13. 中国大连
