@@ -7,11 +7,11 @@ links:
   email: yuanshijin2003@163.com
 ---
 
-<span style="font-size: 25px;">主讲课程：
+<span style="font-size: 20px;">主讲课程：
 * 数据库原理与应用（国家双语教学示范课程、上海市重点课程、上海高校示范性全英语教学课程）
 * 内存计算与内存数据库
 
-<span style="font-size: 25px;">研究方向：</span> 
+<span style="font-size: 20px;">研究方向：</span> 
 
 * 人工智能及其可解释性
 * 机器学习
