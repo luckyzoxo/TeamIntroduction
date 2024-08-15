@@ -41,3 +41,11 @@ redirect_from:
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="加入我们" link="team" style="button" %}
 
+{% include section.html %}
+
+{%
+  include figure.html
+  image="images/TeamPicture.png"
+  caption="实验室人员合影"
+  width="100%"
+%}
