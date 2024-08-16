@@ -37,7 +37,24 @@ redirect_from:
 {% include list.html data="members" component="portrait" filters="role: master, group: kuroshio" %}
 {% include list.html data="members" component="portrait" filters="role: master, group: others" %}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+## 合作单位
+
+{% capture content %}
+
+
+[![国家气象局](/images/co_logo_1.png)](http://www.nmc.cn/)
+
+[![国家海洋环境预报中心](/images/co_logo_2.png)](https://www.nmefc.cn/)
+
+[![复旦大学大气科学研究院](/images/co_logo_3.png)](https://atmsci.fudan.edu.cn/)
+
+[![清华大学地球系统科学系](/images/co_logo_4.png)](https://www.dess.tsinghua.edu.cn/)
+
+{% endcapture %}
+
+{% include grid.html content=content %}
+
+{% include section.html background="images/banner_mountain.jpg" dark=true%}
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="加入我们" link="team" style="button" %}
 
