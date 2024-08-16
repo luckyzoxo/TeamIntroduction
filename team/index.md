@@ -39,7 +39,7 @@ redirect_from:
 
 {% include section.html background="images/banner_mountain.jpg" dark=true%}
 
-我们实验室一直在寻找富有创造力的新成员，欢迎加入我们！
+欢迎加入同济大学“人工智能+大气海洋”实验室！
 {:.center}
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="加入我们" link="team" style="button" %}
@@ -48,27 +48,19 @@ redirect_from:
 
 ## 合作单位
 
-{%
-  include gallery.html
-  style="square"
+{% capture content %}
 
-  image1="images/co_logo_1.png"
-  link1="http://www.nmc.cn/"
-  tooltip1="国家气象局"
+[![国家气象局](/images/co_logo_1.png)](http://www.nmc.cn/)
 
-  image2="images/co_logo_2.png"
-  link2="https://www.nmefc.cn/"
-  tooltip2="国家海洋环境预报中心"
+[![国家海洋环境预报中心](/images/co_logo_2.png)](https://www.nmefc.cn/)
 
-  image3="images/co_logo_3.png"
-  link3="https://atmsci.fudan.edu.cn/"
-  tooltip3="复旦大学大气科学研究院"
+[![复旦大学大气科学研究院](/images/co_logo_3.png)](https://atmsci.fudan.edu.cn/)
 
-  image4="images/co_logo_1.png"
-  link4="https://www.dess.tsinghua.edu.cn/"
-  tooltip4="清华大学地球系统科学系"
+[![清华大学地球系统科学系](/images/co_logo_4.png)](https://www.dess.tsinghua.edu.cn/)
 
-%}
+{% endcapture %}
+
+{% include grid.html content=content %}
 
 {% include section.html %}
 
