@@ -37,32 +37,35 @@ redirect_from:
 {% include list.html data="members" component="portrait" filters="role: master, group: kuroshio" %}
 {% include list.html data="members" component="portrait" filters="role: master, group: others" %}
 
+{% include section.html background="images/banner_mountain.jpg" dark=true%}
+
+欢迎加入我们！
+
+{% include button.html icon="fa-solid fa-handshake-angle" text="加入我们" link="team" style="button" %}
+
+{% include section.html %}
+
 ## 合作单位
 
 {% capture content %}
 
+[![国家气象局](/images/co_logo_1.jpg)](http://www.nmc.cn/)
 
-[![国家气象局](/images/co_logo_1.png)](http://www.nmc.cn/)
+[![国家海洋环境预报中心](/images/co_logo_2.jpg)](https://www.nmefc.cn/)
 
-[![国家海洋环境预报中心](/images/co_logo_2.png)](https://www.nmefc.cn/)
+[![复旦大学大气科学研究院](/images/co_logo_3.jpg)](https://atmsci.fudan.edu.cn/)
 
-[![复旦大学大气科学研究院](/images/co_logo_3.png)](https://atmsci.fudan.edu.cn/)
-
-[![清华大学地球系统科学系](/images/co_logo_4.png)](https://www.dess.tsinghua.edu.cn/)
+[![清华大学地球系统科学系](/images/co_logo_4.jpg)](https://www.dess.tsinghua.edu.cn/)
 
 {% endcapture %}
 
 {% include grid.html content=content %}
 
-{% include section.html background="images/banner_mountain.jpg" dark=true%}
-
-{% include button.html icon="fa-solid fa-handshake-angle" text="加入我们" link="team" style="button" %}
-
-{% include section.html %}
+<!-- {% include section.html %}
 
 {%
   include figure.html
   image="images/TeamPicture.png"
   caption="实验室人员合影"
   width="100%"
-%}
+%} -->
