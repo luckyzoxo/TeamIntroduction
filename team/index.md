@@ -39,7 +39,8 @@ redirect_from:
 
 {% include section.html background="images/banner_mountain.jpg" dark=true%}
 
-欢迎加入我们！
+我们实验室一直在寻找富有创造力的新成员，欢迎加入我们！
+{:.center}
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="加入我们" link="team" style="button" %}
 
@@ -47,25 +48,33 @@ redirect_from:
 
 ## 合作单位
 
-{% capture content %}
+{%
+  include gallery.html
+  style="square"
 
-[![国家气象局](/images/co_logo_1.jpg)](http://www.nmc.cn/)
+  image1="images/co_logo_1.png"
+  link1="http://www.nmc.cn/"
+  tooltip1="国家气象局"
 
-[![国家海洋环境预报中心](/images/co_logo_2.jpg)](https://www.nmefc.cn/)
+  image2="images/co_logo_2.png"
+  link2="https://www.nmefc.cn/"
+  tooltip2="国家海洋环境预报中心"
 
-[![复旦大学大气科学研究院](/images/co_logo_3.jpg)](https://atmsci.fudan.edu.cn/)
+  image3="images/co_logo_3.png"
+  link3="https://atmsci.fudan.edu.cn/"
+  tooltip3="复旦大学大气科学研究院"
 
-[![清华大学地球系统科学系](/images/co_logo_4.jpg)](https://www.dess.tsinghua.edu.cn/)
+  image4="images/co_logo_1.png"
+  link4="https://www.dess.tsinghua.edu.cn/"
+  tooltip4="清华大学地球系统科学系"
 
-{% endcapture %}
+%}
 
-{% include grid.html content=content %}
-
-<!-- {% include section.html %}
+{% include section.html %}
 
 {%
   include figure.html
   image="images/TeamPicture.png"
   caption="实验室人员合影"
   width="100%"
-%} -->
+%}
