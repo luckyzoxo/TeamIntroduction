@@ -1,6 +1,10 @@
 ---
 ---
 
+@import "palettes";
+@import "theme";
+@import "mixins";
+
 .gallery {
   display: grid;
   grid-gap: 40px;
